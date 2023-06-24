@@ -21,7 +21,7 @@ git clone https://github.com/abhradeep14/aeolus.git
 
 ## Example
 
-'''$ python aeolus.py
+$ python aeolus.py
 
 Welcome to the Weather App! Based on the OpenWeatherMap API.
 Enter the name of the city/cities: London, New York
@@ -33,12 +33,13 @@ Humidity: 43%
 It's a clear sky! Go out and enjoy!
 Enjoy the sunshine and have a great day!
 
+
 Current Weather for New York, US:
 Temperature: 26.45°C
 Description: scattered clouds
 Humidity: 52%
 It's scattered clouds! Go out and enjoy!
-Weather forecast: 100% chance of awesomeness!'''
+Weather forecast: 100% chance of awesomeness!
 
 
 ## Ouput:
