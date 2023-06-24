@@ -14,7 +14,6 @@ Requirements
 Usage
 
     Clone the repository:
-
 git clone https://github.com/abhradeep14/aeolus.git
 
 ## Example
