@@ -31,18 +31,38 @@ Enter the name of the city/cities: London, New York
 
 
 Current Weather for London, GB:
+
+
 Temperature: 21.05°C
+
+
 Description: clear sky
+
+
 Humidity: 43%
+
+
 It's a clear sky! Go out and enjoy!
+
+
 Enjoy the sunshine and have a great day!
 
 
 Current Weather for New York, US:
+
+
 Temperature: 26.45°C
+
+
 Description: scattered clouds
+
+
 Humidity: 52%
+
+
 It's scattered clouds! Go out and enjoy!
+
+
 Weather forecast: 100% chance of awesomeness!
 
 
