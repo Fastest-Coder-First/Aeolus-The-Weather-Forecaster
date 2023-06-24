@@ -10,6 +10,9 @@ Features:
  *Customised Quirky Comment to be accompanied with the Weather Forecasts!!.*
  *Fun comments about the weather to lighten up your day!.*
 
+ 
+ *Extensive Usage of Github Copilot of edge-cases and error handling along with writing creative and fun comments displaying its computational and creative capibility!!*
+
 Requirements
 
     pip install Dependencies.txt
