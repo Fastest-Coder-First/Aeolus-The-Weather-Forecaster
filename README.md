@@ -3,9 +3,11 @@
 Aeolus is a command-line interface (CLI) application based on the OpenWeatherMap API that provides current weather information for multiple cities.
 Features:
 Get real-time weather data for cities around the world.
+Accessible directly from Command Prompt for easier and more wider application.
+With Greater City Error margin to make sure you get the data you need in the time you need!!.
 Display temperature, humidity, and weather description using super accurate OpenWeatherAPI.
-Customised Quirky Comment to be accompanied with the Weather Forecasts!!
-Fun comments about the weather to lighten up your day!
+Customised Quirky Comment to be accompanied with the Weather Forecasts!!.
+Fun comments about the weather to lighten up your day!.
 
 Requirements
 
