@@ -26,6 +26,7 @@ $ python aeolus.py
 Welcome to the Weather App! Based on the OpenWeatherMap API.
 Enter the name of the city/cities: London, New York
 
+
 Current Weather for London, GB:
 Temperature: 21.05°C
 Description: clear sky
