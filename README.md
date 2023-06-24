@@ -3,7 +3,8 @@
 Aeolus is a command-line interface (CLI) application based on the OpenWeatherMap API that provides current weather information for multiple cities.
 Features:
 Get real-time weather data for cities around the world.
-Display temperature, humidity, and weather description using super accurate OpenWeatherAPI
+Display temperature, humidity, and weather description using super accurate OpenWeatherAPI.
+Customised Quirky Comment to be accompanied with the Weather Forecasts!!
 Fun comments about the weather to lighten up your day!
 
 Requirements
@@ -19,6 +20,7 @@ git clone https://github.com/abhradeep14/aeolus.git
 ## Example
 
 $ python aeolus.py
+
 Welcome to the Weather App! Based on the OpenWeatherMap API.
 Enter the name of the city/cities: London, New York
 
