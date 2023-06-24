@@ -9,9 +9,7 @@ Features
 
 Requirements
 
-    Python 3.x
-    requests library (pip install requests)
-    colorama library (pip install colorama)
+    pip install Dependencies.txt
 
 Usage
 
