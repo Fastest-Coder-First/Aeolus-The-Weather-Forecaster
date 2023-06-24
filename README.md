@@ -1,4 +1,4 @@
-# Aeolus - Weather CLI Application
+# Aeolus - Weather CLI Application😍😍😎
 
 Aeolus is a command-line interface (CLI) application based on the OpenWeatherMap API that provides current weather information for multiple cities.
 Features
