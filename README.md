@@ -37,7 +37,7 @@ It's scattered clouds! Go out and enjoy!
 Weather forecast: 100% chance of awesomeness!
 
 
-## Fun Comments
+## Fun Comments🤭🤭
 
 The application also includes fun comments about the weather to add a touch of humor and enjoyment. Here are some examples:
 
