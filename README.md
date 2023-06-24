@@ -41,6 +41,12 @@ It's scattered clouds! Go out and enjoy!
 Weather forecast: 100% chance of awesomeness!
 
 
+## Ouput:
+
+![Screenshot 2023-06-24 125241](https://github.com/Fastest-Coder-First/Aeolus-The-Weather-Forecaster/assets/77497523/f51ef83f-71bd-4b1f-9d06-2a960280c6ca)
+
+
+
 ## Fun Comments🤭🤭
 
 The application also includes fun comments about the weather to add a touch of humor and enjoyment. Here are some examples:
